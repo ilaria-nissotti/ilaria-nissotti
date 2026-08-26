@@ -1,4 +1,39 @@
-## Hi there 👋
+## Hi, I'm Ilaria 👋
+
+I'm a MSc Data Science student at the University of Zurich, with a background in Informatics and Applied Mathematics.
+
+I enjoy turning complex data and Machine Learning ideas into clear, usable systems. My interests include Machine Learning, Knowledge Graphs, Network Analysis, and software engineering.
+
+### Selected Projects
+
+#### Informfully
+Contributed to the modernization and extension of Informfully, an open-source platform for reproducible user studies and recommender-system research. My main contribution was implementing per-user knowledge graphs.
+
+#### Meta-Controller for Downstream Skill Utilization
+Contributed to the development of a PPO-based meta-controller that dynamically selected and chained unsupervised skills in the MiniGrid DoorKey environment, achieving a 28% task success rate.
+
+#### Temporal Analysis of the Wikidata Knowledge Graph
+Built and analysed a 45-million-edge Wikidata knowledge graph. Applied large-scale network analysis and Louvain and Leiden community detection across historical snapshots to examine how thematic communities evolved over time.
+
+### Education
+- **MSc major in Data Science and minor in Computational Linguistics and Language Technology**, University of Zurich
+- **BSc Informatics and Applied Mathematics**, Université Grenoble-Alpes
+
+## Tools & Technologies
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,github,docker,mongodb,js&theme=light" alt="Tools and technologies" />
+  </a>
+</p>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ilaria-nissotti&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ilaria-nissotti&show_icons=true&hide_border=true&theme=transparent" alt="Ilaria's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilaria-nissotti&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</p>
 
 <!--
 **ilaria-nissotti/ilaria-nissotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +49,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
