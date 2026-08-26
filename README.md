@@ -39,6 +39,29 @@ Built and analysed a 45-million-edge Wikidata knowledge graph. Applied large-sca
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilaria-nissotti&theme=github" alt="Languages by repository" />
 </p>
 
+## Earned achievements
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" alt="Pair Extraordinaire" />
+      <br><b>Pair Extraordinaire</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO" />
+      <br><b>YOLO</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw" />
+      <br><b>Quickdraw</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark" />
+      <br><b>Pull Shark</b>
+    </td>
+  </tr>
+</table>
+
 <!--
 **ilaria-nissotti/ilaria-nissotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
