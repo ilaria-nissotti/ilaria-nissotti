@@ -10,13 +10,13 @@ I enjoy turning complex data and Machine Learning ideas into clear, usable syste
 
 ## Selected Projects
 
-#### Informfully
+### Informfully
 Contributed to the modernization and extension of Informfully, an open-source platform for reproducible user studies and recommender-system research. My main contribution was implementing per-user knowledge graphs.
 
-#### Meta-Controller for Downstream Skill Utilization
+### Meta-Controller for Downstream Skill Utilization
 Contributed to the development of a PPO-based meta-controller that dynamically selected and chained unsupervised skills in the MiniGrid DoorKey environment, achieving a 28% task success rate.
 
-#### Temporal Analysis of the Wikidata Knowledge Graph
+### Temporal Analysis of the Wikidata Knowledge Graph
 Built and analysed a 45-million-edge Wikidata knowledge graph. Applied large-scale network analysis and Louvain and Leiden community detection across historical snapshots to examine how thematic communities evolved over time.
 
 ## Education
